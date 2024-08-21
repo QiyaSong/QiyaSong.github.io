@@ -137,10 +137,13 @@ redirect_from:
 - （6）对有意继续深造的同学，建议尽早进入实验室学习。良好的科研基础训练是升学的敲门砖，课题组长期与各个高校的老师保持联系，**科研优异者可以推荐到C9高校或者NTU/NUS等高校继续深造；**
 - （7）对于科研优秀的同学会进行对应的科研奖励。
  - **<font color=red>欢迎对科研充满热情、有志于探索人工智能领域的同学加入我们，共同开启科研之旅！</font>**
- - 
-<div style="width: 40%; height: 400px;">
+
+#  Visitor
+<center>
+<div style="width: 20%; height: 400px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q&cl=ffffff" width="100%" height="100%"></script>
 </div>
+</center>
 
 
 
