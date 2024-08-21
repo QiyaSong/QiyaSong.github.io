@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-# title                    : "Lorem ipsum"
-# description              : " "
-# repository               : "RayeRen/acad-homepage.github.io"
-# google_scholar_stats_use_cdn : true
+title                    : "Qiya Song <br> (宋启亚)"
+description              : "Hunan Normal University"
+repository               : "QiyaSong/QiyaSong.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiya Song"
+  name             : "Qiya Song <br> (宋启亚)"
   avatar           : "images/prcv.jpg"
-  bio              : "Hunan Normal University"
+  # bio              : "Hunan Normal University"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
