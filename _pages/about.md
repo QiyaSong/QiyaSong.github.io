@@ -74,12 +74,13 @@ redirect_from:
 
 # 📝 Academics
 
-- **Publications (Last three years)**
+**Publications (Last three years)**
 - Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2022, doi:10.1109/TNNLS.2022.3163771 （SCI中科院一区 TOP期刊 IF=14.25）
 - Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A类会议）
 - Multi-modal Joint Learning framework with Modality Interaction Network for robust speech recognition, in Information Fusion，under review（SCI中科院一区 TOP期刊 IF=18.60）
 - Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022（CCF_A workshop , EI ）
 - Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022 （CCF_A workshop , EI ）
+- Artificial	Text	Detection	with	Multiple	Training	Strategies，	Computational	Linguistics and	Intellectual	Technologies:	Proceedings	of	the	International	Conference	（EI	会议）
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
