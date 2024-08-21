@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
--宋启亚，工学博士，硕士研究生导师，2023年毕业于湖南大学电气与信息工程学院/机器人视觉感知与控制技术国家工程研究中心（师从李树涛教授），2024年入职于湖南师范大学信息科学与工程学院。以第一/共一作者在IEEE TNNLS、ACM Multimedia等高水平国际期刊/会议发表论文多篇，论文发表获得到国内外同行的关注，申请/授权发明专利五项（其中一项已经完成成果转换）。
+**宋启亚，工学博士，硕士研究生导师，2023年毕业于湖南大学电气与信息工程学院/机器人视觉感知与控制技术国家工程研究中心（师从李树涛教授），2024年入职于湖南师范大学信息科学与工程学院。以第一/共一作者在IEEE TNNLS、ACM Multimedia等高水平国际期刊/会议发表论文多篇，论文发表获得到国内外同行的关注，申请/授权发明专利五项（其中一项已经完成成果转换）。**
 
--在国际顶级会议ACL、ACM以及全球最大竞赛平台kaggle上举办的国际竞赛获得冠军4项、亚军2项；获得国际“互联网+” 创新创业大赛全国银奖/铜奖等；作为研究骨干参与国家重点研发、JKW等国家级/省部级项目多项，与等国内外知名企业和技术企业保持良好合作关系。长期担任IEEE TNNLS、IEEE TALSP IEEE TMM等国内外期刊的审稿人以及多个专委会执行委员，先后获得湖南大学校长奖学金、湖南大学优秀研究生等荣誉称号。
+**在国际顶级会议ACL、ACM以及全球最大竞赛平台kaggle上举办的国际竞赛获得冠军4项、亚军2项；获得国际“互联网+” 创新创业大赛全国银奖/铜奖等；作为研究骨干参与国家重点研发、JKW等国家级/省部级项目多项，与等国内外知名企业和技术企业保持良好合作关系。长期担任IEEE TNNLS、IEEE TALSP IEEE TMM等国内外期刊的审稿人以及多个专委会执行委员，先后获得湖南大学校长奖学金、湖南大学优秀研究生等荣誉称号。**
 
--**联系方式(微信号)：QiyS_UNB （如有需求，请注明来意）**
+<font color=red> **联系方式(微信号)：QiyS_UNB （如有需求，请注明来意）**</font>
 
--**Email：sqyunb@hnu.edu.cn**
+<font color=red> **Email：sqyunb@hnu.edu.cn**</font>
 
 # 🔥 Researches
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
