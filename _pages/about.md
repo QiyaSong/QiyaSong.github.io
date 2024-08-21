@@ -21,9 +21,9 @@ redirect_from:
 
 -在国际顶级会议ACL、ACM以及全球最大竞赛平台kaggle上举办的国际竞赛获得冠军4项、亚军2项；获得国际“互联网+” 创新创业大赛全国银奖/铜奖等；作为研究骨干参与国家重点研发、JKW等国家级/省部级项目多项，与等国内外知名企业和技术企业保持良好合作关系。长期担任IEEE TNNLS、IEEE TALSP IEEE TMM等国内外期刊的审稿人以及多个专委会执行委员，先后获得湖南大学校长奖学金、湖南大学优秀研究生等荣誉称号。
 
--联系方式(微信号)：QiyS_UNB （如有需求，请注明来意）{:target="_blank"}
+-**联系方式(微信号)：QiyS_UNB （如有需求，请注明来意）**
 
--Email：sqyunb@hnu.edu.cn{:target="_blank"}
+-**Email：sqyunb@hnu.edu.cn**
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
