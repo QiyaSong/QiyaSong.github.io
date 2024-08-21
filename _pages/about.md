@@ -113,7 +113,11 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022-2023* 湖南大学优秀研究生
+- *2022-2023* 湖南大学校长奖学金
+- *2018-2018* 校优秀毕业生
+- *2015-2016* 国家奖学金
+- *2014-2015* 省三好学生 
 
 # 📝 Admission
 
