@@ -26,13 +26,16 @@ redirect_from:
  - **<font color=blue>Email：sqyunb@hnu.edu.cn</font>**
 
 # 🔥 Researches
-**（1）多模图像融合：**多模图像融合能利用不同模态的优势，实现更全面、更清晰、更准确的感知，在军事侦察、遥感测绘、医疗诊断等领域发挥重要作用。
+**长期从事多模态信息融合、音视频图像处理、人工智能、深度学习技术等研究；主要如下：**
+
+-**（1）多模图像融合：**针对复杂场景下人机交互系统面临的智能化和情感化挑战，发展多模信息融合（语音、视觉、文本等）的理论方法，攻克智能人机交互技术。
+
 <center>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = 'images/多模态图像融合.png'
-        width = "100%">
+        width = "80%">
     <br />
     <div style = "
         color: orange;
@@ -43,6 +46,8 @@ redirect_from:
     </div>
     <p> </p>
 </center>
+
+-**（2）多模图像融合：**多模图像融合能利用不同模态的优势，实现更全面、更清晰、更准确的感知，在军事侦察、遥感测绘、医疗诊断等领域发挥重要作用。
 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
