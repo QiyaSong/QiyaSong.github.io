@@ -27,11 +27,8 @@ redirect_from:
 
 # 🔥 Researches
 **（1）多模图像融合：**多模图像融合能利用不同模态的优势，实现更全面、更清晰、更准确的感知，在军事侦察、遥感测绘、医疗诊断等领域发挥重要作用。
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/多模态图像融合.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/多模态图像融合.png' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
 </div>
 </div>
 
