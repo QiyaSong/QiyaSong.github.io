@@ -138,16 +138,18 @@ redirect_from:
 - （7）对于科研优秀的同学会进行对应的科研奖励。
  - **<font color=red>欢迎对科研充满热情、有志于探索人工智能领域的同学加入我们，共同开启科研之旅！</font>**
 
-
+<center>
 <div style="width: 100%; height: 400px;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q&cl=ffffff" width="100%" height="100%"></script>
 </div>
+</center>
 
+ <center> 
 <div style="width: 100%; height: 400px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q"&cl=ffffff" width="100%" height="100%"></script>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q&cl=ffffff" width="100%" height="100%"></script>
 </div>
 
-
+</center>
 
 
 
