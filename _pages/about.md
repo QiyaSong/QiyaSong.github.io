@@ -84,8 +84,31 @@ redirect_from:
 - Overview of the NLPCC 2024 Shared Task: Multi-Lingual Medical Instructional Video Question Answering，NLPCC2024（EI）
 - Domain-Invariant Feature Learning Memory Network for Cross-Scene Hyperspectral Image Classification ，ICSI2024（Best paper，EI）
 
+**Representative Patents**
+- 李树涛，宋启亚，孙斌. 一种智能机器人的多模态融合自然交互方法、系统及介质，CN202210838251.1
+- 李树涛，宋启亚，孙斌. 一种跨模态多特征融合的音视频语音识别方法及系统，CN 202011001648.2
+- 李树涛，宋启亚，孙斌. 一种基于跨模态注意力增强的唇语识别方法及系统，CN202110986219.3
+- 李树涛，宋启亚，李宾，孙斌. 一种基于混合注意力的人机对话生成方法、系统及介质，CN202210916763.5
+
+
+**Academic competition**
+- 国际顶级会议ACM Multimedia 多模态多人交互说话人预测：冠军
+- 国际顶级会议ACM Multimedia 多模态多人交互眼动交流检测：亚军
+- 国际顶级学术会议ACL WASSA Track2—情感分类Emotion Classification ：冠军
+- 国际顶级学术会议ACL WASSA Track3—个人性格预测Personality Prediction ：冠军
+- 国际顶级学术会议ACL WASSA Track4—人际反应指数预测Interpersonal Reactivity Index Prediction ：冠军
+- 全球最大科学竞赛平台Kaggle 上人工文本检测Artificial Text Detection (multi task) ：亚军
+- 第六届中国“互联网+”大学生创新创业大赛全国总决赛：铜奖
+- 第七届中国“互联网+”大学生创新创业大赛全国总决赛：银奖
+
+
+
 # 💻Projects
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 国家重点研发计划项目（2018YFB1305200），多模态融合的机器人自然交互，2019.06-2022.05，主研
+- 国防重点项目子课题，XXXXXXXXXX，2021.1-2023.12，主研
+- 国家自然科学基金面上项目（62171183），服务机器人的多模态自然交互理解与反馈，2022.01-2025.12，主研
+- 湖南省自然科学基金优秀青年项目（2022JJ20017），服务机器人的多模态融合识别与自然交互，2022.01-2024.12，主研
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
