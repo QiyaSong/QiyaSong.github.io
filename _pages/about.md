@@ -139,7 +139,10 @@ redirect_from:
  - **<font color=red>欢迎对科研充满热情、有志于探索人工智能领域的同学加入我们，共同开启科研之旅！</font>**
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q&cl=ffffff&w=a" width = "60%"></script>
+<div style="width: 60%; height: 400px;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q&cl=ffffff" width="100%" height="100%"></script>
+</div>
+
 
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q"></script>
