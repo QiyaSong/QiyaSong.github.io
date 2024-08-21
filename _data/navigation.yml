@@ -4,16 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Researchs"
-    url: "/#-Researchs"
+    url: "/#Researchs"
 
   - title: "Achievements"
-    url: "/#-Achievements"
+    url: "/#Achievements"
 
   - title: "Project"
-    url: "/#-Project"
+    url: "/#Project"
 
+  - title: "Honors and Awards "
+    url: "/#Honors and Awards "
+    
   - title: "Admissions "
-    url: "/#-Admissions "
+    url: "/#Admissions "
     
 
   # - title: "Internships"
