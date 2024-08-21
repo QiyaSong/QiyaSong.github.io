@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About"
-    url: "/#-About"
+    url: "/#-about"
 
-  - title: "Research"
-    url: "/#-Researches"
+  - title: "Researches"
+    url: "/#-researches"
 
-  - title: "Achievement"
-    url: "/#-Achievements"
+  - title: "achievements"
+    url: "/#-achievements"
 
-  - title: "Project"
-    url: "/#-Projects"
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Honors and Awards "
-    url: "/#-Honors and Awards "
+    url: "/#-honors-and-awards "
     
   - title: "Admission "
-    url: "/#-Admission"
+    url: "/#-admission"
     
 
   # - title: "Internships"
