@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# 📝 About Me
+# 📝 About
 
 -  宋启亚，工学博士，**硕士研究生导师，师从李树涛教授，2023年毕业于湖南大学电气与信息工程学院/机器人视觉感知与国家工程研究中心（主任：王耀南院士）**，2024年入职于湖南师范大学信息科学与工程学院。以第一/通讯作者在IEEE TNNLS、ACM Multimedia等高水平国际期刊/会议发表论文多篇，论文发表获得到国内外同行的关注，申请/授权发明专利五项（其中一项已经完成成果转换）。
 
@@ -106,7 +106,7 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Admissions
+# 📝 Admission
 
 课题组（隶属于肖林院长）**招收研究生/本科生(计算机科学/人工智能/软件工程等)，欢迎对科研感兴趣、有志于读研/博深造以及进大厂的同学积极报名!** 课题组团队氛围融洽，注重科研创新，为同学们提供了一个良好的学习与实践平台，研究生/本科生均将进行系统的科研训练，得到对应的编程、阅读论文等多方面能力的培养，并提供对应的计算资源和硬件平台，确保每个学生有所获/有所得。
 -【招收要求：】
