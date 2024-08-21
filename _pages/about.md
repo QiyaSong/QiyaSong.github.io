@@ -140,7 +140,7 @@ redirect_from:
 
 #  Visitor
 <center>
-<div style="width: 20%; height: 400px;">
+<div style="width: 50%; height: 400px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q&cl=ffffff" width="100%" height="100%"></script>
 </div>
 </center>
