@@ -142,6 +142,9 @@ redirect_from:
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q&cl=ffffff&w=a"></script>
 
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=feizsRUkTyL921nT7nMEDMgd7MJbh9ILrZaXV4qNx2Q"></script>
+
+
 
 
 
