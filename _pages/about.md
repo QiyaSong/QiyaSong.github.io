@@ -70,29 +70,19 @@ redirect_from:
 # 📝 Academics
 
 **Publications (Last three years)**
-- 
-- Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2022, doi:10.1109/TNNLS.2022.3163771 （SCI中科院一区 TOP期刊 IF=14.25）
+- Multimodal Graph Neural Network for Recommendation with Dynamic De-redundancy and Modality-Guided Feature De-noisy，in IEEE TNNLS，under review
+- Intra- and Inter-modal Graph Contrastive Learning for Multimodal Recommendation，in KBS，under review
+- SFMRec: A Specific Flow Modality Recovery Framework For Multimodal Recommendation，in AAAI2025，under review
+- CD4C: Change Detection for Remote Sensing Image Change Caption，in IEEE TGRS，Major revision
+-  FGCM: A Modality-behavior Fusion Model Integrated with Graph Contrastive Learning for Multimodal Recommendation，IEEE TBD，Major revision （JCR Q1）
 - Multi-modal Joint Learning framework with Modality Interaction Network for robust speech recognition, in Information Fusion，under review（SCI中科院一区 TOP期刊 IF=18.60）
-- Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A类会议）
+- Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2022, doi:10.1109/TNNLS.2022.3163771 （SCI中科院一区 TOP期刊 IF=14.25）
+- Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A）
 - Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022（CCF_A workshop , EI ）
 - Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022 （CCF_A workshop , EI ）
-- Artificial	Text	Detection	with	Multiple	Training	Strategies，	Computational	Linguistics and	Intellectual	Technologies:	Proceedings	of	the	International	Conference	（EI	会议）
-- 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Artificial	Text	Detection	with	Multiple	Training	Strategies，	Computational	Linguistics and	Intellectual	Technologies:	Proceedings	of	the	International	Conference	（EI）
+- Overview of the NLPCC 2024 Shared Task: Multi-Lingual Medical Instructional Video Question Answering，NLPCC2024（EI）
+- Domain-Invariant Feature Learning Memory Network for Cross-Scene Hyperspectral Image Classification ，ICSI2024（Best paper，EI）
 
 # 💻Projects
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
