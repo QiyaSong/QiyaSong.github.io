@@ -84,7 +84,7 @@ redirect_from:
 - Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022 （CCF_A workshop , EI ）
 - Artificial	Text	Detection	with	Multiple	Training	Strategies，	Computational	Linguistics and	Intellectual	Technologies:	Proceedings	of	the	International	Conference	（EI）
 - Overview of the NLPCC 2024 Shared Task: Multi-Lingual Medical Instructional Video Question Answering，NLPCC2024（EI）
-- Domain-Invariant Feature Learning Memory Network for Cross-Scene Hyperspectral Image Classification ，ICSI2024（Best paper，EI）
+- Domain-Invariant Feature Learning Memory Network for Cross-Scene Hyperspectral Image Classification ，ICSI2024（oral，EI）
 
 **Representative Patents**
 - 李树涛，宋启亚，孙斌. 一种智能机器人的多模态融合自然交互方法、系统及介质，CN202210838251.1
