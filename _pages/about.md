@@ -77,8 +77,8 @@ redirect_from:
 - SFMRec: A Specific Flow Modality Recovery Framework For Multimodal Recommendation，in AAAI2025，under review
 - CD4C: Change Detection for Remote Sensing Image Change Caption，in IEEE TGRS，Major revision
 -  FGCM: A Modality-behavior Fusion Model Integrated with Graph Contrastive Learning for Multimodal Recommendation，IEEE TBD，Major revision （JCR Q1）
-- Multi-modal Joint Learning framework with Modality Interaction Network for robust speech recognition, in Information Fusion，under review（SCI中科院一区 TOP期刊 IF=18.60）
-- Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2022, doi:10.1109/TNNLS.2022.3163771 （SCI中科院一区 TOP期刊 IF=14.25）
+- Multi-modal Joint Learning framework with Modality Interaction Network for robust speech recognition, in Information Fusion，2023（SCI中科院一区 TOP期刊 IF=18.60）
+- Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2023 （SCI中科院一区 TOP期刊 IF=14.25）
 - Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A）
 - Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022（CCF_A workshop , EI ）
 - Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022 （CCF_A workshop , EI ）
