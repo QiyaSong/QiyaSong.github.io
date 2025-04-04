@@ -77,7 +77,7 @@ redirect_from:
 - DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations， under review
 - A Nonlinear Noise-Resistant Zeroing Neural Network Model for Solving Time-Varying Quaternion Generalized Lyapunov Equation and Applications to Color Image Processing, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
 - Multi-level feature subgraph aggregation graph neural network，in Information Fusion，2025（SCI中科院一区 TOP期刊 IF=18.60）
-- Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey，2025（SCI中科院二区 IF=18.60）
+- Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey，2025（SCI中科院一区 IF=7.4）
 - Multi-modal Joint Learning framework with Modality Interaction Network for robust speech recognition, in Information Fusion，2023（SCI中科院一区 TOP期刊 IF=18.60）
 - Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2023 （SCI中科院一区 TOP期刊 IF=14.25）
 - Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A）
