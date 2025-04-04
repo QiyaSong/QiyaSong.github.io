@@ -75,14 +75,19 @@ redirect_from:
 - Multimodal Graph Neural Network for Recommendation with Dynamic De-redundancy and Modality-Guided Feature De-noisy，in IEEE TNNLS，under review
 - Intra- and Inter-modal Graph Contrastive Learning for Multimodal Recommendation，in IEEE TNSE，under review
 - DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations， under review
+- A Nonlinear Noise-Resistant Zeroing Neural Network Model for Solving Time-Varying Quaternion Generalized Lyapunov Equation and Applications to Color Image Processing, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
+- Multi-level feature subgraph aggregation graph neural network，in Information Fusion，2025（SCI中科院一区 TOP期刊 IF=18.60）
+- Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey，2025（SCI中科院二区 IF=18.60）
 - Multi-modal Joint Learning framework with Modality Interaction Network for robust speech recognition, in Information Fusion，2023（SCI中科院一区 TOP期刊 IF=18.60）
 - Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2023 （SCI中科院一区 TOP期刊 IF=14.25）
 - Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A）
-- Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022（CCF_A workshop , EI ）
-- Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022 （CCF_A workshop , EI ）
+- FGCM: Modality-behavior Fusion Model Integrated with Graph Contrastive Learning for Multimodal Recommendation, IEEE Multimedia，2023
+- Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022
+- Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022 
 - Artificial	Text	Detection	with	Multiple	Training	Strategies，	Computational	Linguistics and	Intellectual	Technologies:	Proceedings	of	the	International	Conference	（EI）
-- Overview of the NLPCC 2024 Shared Task: Multi-Lingual Medical Instructional Video Question Answering，NLPCC2024（EI）
-- Domain-Invariant Feature Learning Memory Network for Cross-Scene Hyperspectral Image Classification ，ICSI2024（oral，EI）
+- Overview of the NLPCC 2024 Shared Task: Multi-Lingual Medical Instructional Video Question Answering，NLPCC2024
+- Domain-Invariant Feature Learning Memory Network for Cross-Scene Hyperspectral Image Classification ，ICSI2024
+  
 
 **Representative Patents**
 - 李树涛，宋启亚，孙斌. 一种智能机器人的多模态融合自然交互方法、系统及介质，CN202210838251.1
