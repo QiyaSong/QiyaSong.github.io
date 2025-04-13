@@ -74,7 +74,7 @@ redirect_from:
 **Publications (Last three years)**
 - Multimodal Graph Neural Network for Recommendation with Dynamic De-redundancy and Modality-Guided Feature De-noisy，in IEEE TNNLS，under review
 - Intra- and Inter-modal Graph Contrastive Learning for Multimodal Recommendation，in IEEE TNSE，under review
-- DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations， under review
+- DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations，In TNNLS2024 under review
 - A Nonlinear Noise-Resistant Zeroing Neural Network Model for Solving Time-Varying Quaternion Generalized Lyapunov Equation and Applications to Color Image Processing, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
 - Multi-level feature subgraph aggregation graph neural network，in Information Fusion，2025（SCI中科院一区 TOP期刊 IF=18.60）
 - Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey，2025（SCI中科院一区 TOP期刊  IF=7.4）
