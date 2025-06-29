@@ -19,7 +19,7 @@ redirect_from:
 
 # 📝 About
 
--  宋启亚，工学博士，**硕士研究生导师，师从李树涛教授，2023年11月毕业于湖南大学电气与信息工程学院/机器人视觉感知与控制国家工程研究中心**，2024年入职于湖南师范大学信息科学与工程学院。以第一/通讯作者在IEEE TNNLS、ACM Multimedia等高水平国际期刊/会议发表论文10宇篇，论文发表获得到国内外同行的关注，申请/授权发明专利14项（其中一项已经完成成果转换）。
+-  宋启亚，工学博士，**硕士研究生导师，师从李树涛教授，2023年11月毕业于湖南大学电气与信息工程学院/机器人视觉感知与控制国家工程研究中心**，2024年入职于湖南师范大学信息科学与工程学院。以第一/通讯作者在IEEE TNNLS、ACM Multimedia等高水平国际期刊/会议发表论文10余篇，论文发表获得到国内外同行的关注，申请/授权发明专利14项（其中一项已经完成成果转换）。
 
 - 在国际顶级会议ACL、ACM以及全球最大竞赛平台kaggle上举办的国际竞赛获得冠军4项、亚军2项；获得国际“互联网+” 创新创业大赛全国银奖/铜奖等；作为研究骨干参与国家重点研发、JKW等国家级/省部级项目多项，与等国内外知名企业和技术企业保持良好合作关系。长期担任IEEE TNNLS、IEEE TALSP IEEE TMM等国内外期刊的审稿人以及多个专委会执行委员，先后获得湖南大学校长奖学金、湖南大学优秀研究生等荣誉称号。
 
@@ -72,10 +72,9 @@ redirect_from:
 # 📝 Academics
 
 **Publications (Last three years)**
-- Multimodal Graph Neural Network for Recommendation with Dynamic De-redundancy and Modality-Guided Feature De-noisy，in IEEE TNNLS，under review
-- Intra- and Inter-modal Graph Contrastive Learning for Multimodal Recommendation，in IEEE TNSE，under review
-- DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations，In TNNLS2024 under review
-- LPIC: Learnable Prompts and ID-guided Contrastive Learning for Multimodal Recommendation, ACM Transactions on Multimedia Computing, Communications and Applications，2025（CCF B，IF=5.3）
+- Spatial Invertible Network With Mamba Convolution for Hyperspectral Image Fusion，in IEEE J-STSP，Major Revision（SCI中科院一区，信号处理国际顶级期刊 IF=13.7）
+- Multimodal Graph Neural Network for Recommendation with Dynamic De-redundancy and Modality-Guided Feature De-noisy，in ACM TOMM，Major Revision（SCI中科院二区，CCF B，多模态数据领域国际顶级期刊 IF=6.0）
+- LPIC: Learnable Prompts and ID-guided Contrastive Learning for Multimodal Recommendation, ACM Transactions on Multimedia Computing, Communications and Applications，2025（SCI中科院二区，CCF B，多模态数据领域国际顶级期刊 IF=6.0）
 - A Nonlinear Noise-Resistant Zeroing Neural Network Model for Solving Time-Varying Quaternion Generalized Lyapunov Equation and Applications to Color Image Processing, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
 - Multi-level feature subgraph aggregation graph neural network，in Information Fusion，2025（SCI中科院一区 TOP期刊 IF=18.60）
 - Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey，Engineering Applications of Artificial Intelligence，2025（SCI中科院一区 TOP期刊  IF=7.4）
