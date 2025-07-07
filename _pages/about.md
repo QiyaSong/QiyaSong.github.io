@@ -75,13 +75,13 @@ redirect_from:
 - Spatial Invertible Network With Mamba Convolution for Hyperspectral Image Fusion，in IEEE J-STSP，Major Revision（SCI中科院一区，信号处理国际顶级期刊 IF=13.7）
 - Multimodal Graph Neural Network for Recommendation with Dynamic De-redundancy and Modality-Guided Feature De-noisy，in ACM TOMM，Major Revision（SCI中科院二区，CCF B，多模态数据领域国际顶级期刊 IF=6.0）
 - Intra- and Inter-modal Graph Contrastive Learning for Multimodal Recommendation, in ACM TIST，Major Revision （JCR Q1， SCI中科院三区，IF=6.2）
+- Multi-level feature subgraph aggregation graph neural network，in Information Fusion，2025（SCI中科院一区 TOP期刊 IF=18.60）
 - LPIC: Learnable Prompts and ID-guided Contrastive Learning for Multimodal Recommendation, ACM Transactions on Multimedia Computing, Communications and Applications，2025（SCI中科院二区，CCF B，多模态数据领域国际顶级期刊 IF=6.0）
 - A Nonlinear Noise-Resistant Zeroing Neural Network Model for Solving Time-Varying Quaternion Generalized Lyapunov Equation and Applications to Color Image Processing, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
-- Multi-level feature subgraph aggregation graph neural network，in Information Fusion，2025（SCI中科院一区 TOP期刊 IF=18.60）
 - Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey，Engineering Applications of Artificial Intelligence，2025（SCI中科院一区 TOP期刊  IF=7.4）
 - Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2023 （SCI中科院一区 TOP期刊 IF=14.25）
 - Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A）
-- FGCM: Modality-behavior Fusion Model Integrated with Graph Contrastive Learning for Multimodal Recommendation, IEEE Multimedia，2023
+- FGCM: Modality-behavior Fusion Model Integrated with Graph Contrastive Learning for Multimodal Recommendation, IEEE Multimedia，2025
 - Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022
 - Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction，Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ ACL. 2022 
 - Artificial	Text	Detection	with	Multiple	Training	Strategies，	Computational	Linguistics and	Intellectual	Technologies:	Proceedings	of	the	International	Conference	（EI）
