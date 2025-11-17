@@ -72,7 +72,7 @@ redirect_from:
 # 📝 Academics
 
 **Publications (Last three years)**
-- Qiya Song,et al. MCFNet: Multiscale Cross-domain Fusion Network for HSI and LiDAR Data Joint Classification,  IEEE Transactions on Geoscience and Remote Sensing, 2025.（SCI中科院一区 TOP期刊 IF=8.0）
+- Qiya Song,et al. MCFNet: Multiscale Cross-domain Fusion Network for HSI and LiDAR Data Joint Classification,  IEEE Transactions on Geoscience and Remote Sensing, 2025.（SCI中科院一区 TOP期刊 IF=8.0，ESI高被引）
 - ..Qiya Song*.. Spatial Invertible Network With Mamba Convolution for Hyperspectral Image Fusion，in IEEE Journal of Selected Topics in Signal Processing，2025（SCI中科院一区，信号处理国际顶级期刊 IF=13.7）
 - Q. Song, J. Hu, L. Xiao, B. Sun, X. Gao and S. Li，Diffcl: A diffusion-based contrastive learning framework with semantic alignment for multimodal recommendations, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
 - Q. Song, B. Sun and S. Li, Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2023 （SCI中科院一区 TOP期刊 IF=14.25）
