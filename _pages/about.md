@@ -19,7 +19,7 @@ redirect_from:
 
 # 📝 About
 
--  宋启亚，副教授，**硕士研究生导师，湖南师范大学“世承人才计划”青年优秀人才，博士毕业于湖南大学（师从李树涛教授）**，主要研究方向为多模信息融合、视频图像处理，近年来在IEEE TNNLS，TGRS，SCIS，ACM MM等高水平学术期刊/会议上发表论文20余篇，ESI 高被引论文1篇，申请/授权发明专利14项（其中一项完成转化）；主持或参与了包括青年科学基金项目、重点研发计划等多个国家级项目;
+-  宋启亚，副教授，**湖南省青年人才，湖南师范大学“世承人才计划”青年优秀人才，博士毕业于湖南大学（师从李树涛教授）**，主要研究方向为多模信息融合、视频图像处理，近年来在IEEE TNNLS，TGRS，SCIS，ACM MM等高水平学术期刊/会议上发表论文20余篇，ESI 高被引论文1篇，申请/授权发明专利14项（其中一项完成转化）；主持或参与了包括青年科学基金项目、重点研发计划等多个国家级项目;
 - 先后获得中国图像图形学会博士学位论文激励计划、湖南大学校长奖学金、湖南大学优秀研究生等荣誉称号；在国际顶级会议ACL、ACM以及全球最大竞赛平台kaggle上举办的国际竞赛获得冠军4项、亚军2项；获得国际“互联网+” 创新创业大赛全国银奖/铜奖等；长期受邀担任IEEE TPMAI、IJCV、TIP、TNNLS、TGRS、TMM、IJCAI、ACM MM等国内外知名期刊/会议审稿人以及多个专委会执行委员。
 
 - **<font color=blue> 联系方式(微信号)：QiyS_UNB （如有需求，请注明来意）</font>**
@@ -27,7 +27,7 @@ redirect_from:
  - **<font color=blue>Email：sqyunb@hnu.edu.cn</font>**
 
 # 🔥 Researches
-**长期从事多模态信息融合、计算成像、人工智能、深度学习技术等研究；主要如下：**
+**长期从事多模态信息融合、人工智能、深度学习技术等研究；主要如下：**
 
 -**（1）多模图像融合：**多模图像融合能利用不同模态的优势，实现更全面、更清晰、更准确的感知，在军事侦察、遥感测绘、医疗诊断等领域发挥重要作用。
 
@@ -74,6 +74,7 @@ redirect_from:
 - Qiya Song,.. Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, IEEE / CVF Computer Vision and Pattern Recognition Conference ,CVPR(CCF A 会议)
 - Qiya Song,et al. Multi-domain adaptive fusion network for multi-source remote sensing data classification，Science China Information Sciences（SCI中科院一区 TOP期刊，CCF A）
 - Qiya Song,et al. MCFNet: Multiscale Cross-domain Fusion Network for HSI and LiDAR Data Joint Classification,  IEEE Transactions on Geoscience and Remote Sensing, 2025.（SCI中科院一区 TOP期刊 IF=8.0，ESI高被引）
+- Qiya Song,et al. IHEL: Multimodal Remote Sensing Image Classification via Interactive Heterogeneous Experts Learning, Information Fusion（SCI中科院一区 TOP期刊 IF=18.60）
 - ..Qiya Song*.. Spatial Invertible Network With Mamba Convolution for Hyperspectral Image Fusion，in IEEE Journal of Selected Topics in Signal Processing，2025（SCI中科院一区，信号处理国际顶级期刊 IF=13.7）
 - Q. Song, J. Hu, L. Xiao, B. Sun, X. Gao and S. Li，Diffcl: A diffusion-based contrastive learning framework with semantic alignment for multimodal recommendations, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
 - Q. Song, B. Sun and S. Li, Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2023 （SCI中科院一区 TOP期刊 IF=14.25）
