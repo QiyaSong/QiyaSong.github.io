@@ -71,21 +71,18 @@ redirect_from:
 # 📝 Academics
 
 **Publications (Last three years)**
-- Qiya Song,.. Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, IEEE / CVF Computer Vision and Pattern Recognition Conference ,CVPR(CCF A 会议)
+- Qiya Song,et al. Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, IEEE / CVF Computer Vision and Pattern Recognition Conference ,CVPR(CCF A 会议)
 - Qiya Song,et al. Multi-domain adaptive fusion network for multi-source remote sensing data classification，Science China Information Sciences（SCI中科院一区 TOP期刊，CCF A）
 - Qiya Song,et al. MCFNet: Multiscale Cross-domain Fusion Network for HSI and LiDAR Data Joint Classification,  IEEE Transactions on Geoscience and Remote Sensing, 2025.（SCI中科院一区 TOP期刊 IF=8.0，ESI高被引）
-- Qiya Song,et al. IHEL: Multimodal Remote Sensing Image Classification via Interactive Heterogeneous Experts Learning, Information Fusion（SCI中科院一区 TOP期刊 IF=18.60）
+- Qiya Song,et.al. ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion, IEEE Transactions on Neural Networks and Learning Systems,2026 （SCI中科院一区 TOP期刊 IF=14.25）
+- Qiya Song,et al. IHEL: Multimodal Remote Sensing Image Classification via Interactive Heterogeneous Experts Learning, Information Fusion,2026 （SCI中科院一区 TOP期刊 IF=18.60）
+- Qiya Song,et al. Covariance-Guided and Direction-Aware Scan Attention for Hyperspectral Image Fusion, IEEE Transactions on Circuits and Systems for Video Technology,2026（SCI中科院一区 TOP期刊 IF=11.10）
 - ..Qiya Song*.. Spatial Invertible Network With Mamba Convolution for Hyperspectral Image Fusion，in IEEE Journal of Selected Topics in Signal Processing，2025（SCI中科院一区，信号处理国际顶级期刊 IF=13.7）
-- Q. Song, J. Hu, L. Xiao, B. Sun, X. Gao and S. Li，Diffcl: A diffusion-based contrastive learning framework with semantic alignment for multimodal recommendations, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
+- Qiya Song,et al.Diffcl: A diffusion-based contrastive learning framework with semantic alignment for multimodal recommendations, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
+-..Qiya Song*.. Coupling Degree with Self-supervised Learning for Multimodal Recommendation, Information Fusion,2026 （SCI中科院一区 TOP期刊 IF=18.60）
 - Q. Song, B. Sun and S. Li, Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2023 （SCI中科院一区 TOP期刊 IF=14.25）
 - Qiya Song, Renwei Dian, Bin Sun, Jie Xie, and Shutao Li. Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A）
 - ..Qiya Song*.. Multi-level feature subgraph aggregation graph neural network，in Information Fusion，2025（SCI中科院一区 TOP期刊 IF=18.60）
-- Xin Liu，Qiya Song*(通讯作者)，et al.  LPIC: Learnable Prompts and ID-guided Contrastive Learning for Multimodal Recommendation, ACM Transactions on Multimedia Computing, Communications and Applications，2025（SCI中科院二区，CCF B，多模态数据领域国际顶级期刊 IF=6.0）
-- (通讯作者)	Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey，Engineering Applications of Artificial Intelligence，2025（SCI中科院一区 TOP期刊 IF=7.4）
-- (通讯作者)	A Cluster Tree Network for Image Super-Resolution，IEEE Transactions on Consumer Electronics，2025（SCI中科院一区  IF=10.9）
-- (通讯作者) Multimodal Graph Neural Network for Recommendation with Dynamic De-redundancy and Modality-Guided Feature De-noisy，in ACM TOMM，Major Revision（SCI中科院二区，CCF B，多模态数据领域国际顶级期刊 IF=6.0）
-- (通讯作者) Intra- and Inter-modal Graph Contrastive Learning for Multimodal Recommendation, in ACM TIST，Major Revision （JCR Q1，IF=6.2），2025
-
 
 **Representative Patents**
 - 李树涛，宋启亚，孙斌. 一种智能机器人的多模态融合自然交互方法、系统及介质，CN202210838251.1
