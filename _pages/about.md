@@ -79,7 +79,7 @@ redirect_from:
 - Qiya Song,et al. Covariance-Guided and Direction-Aware Scan Attention for Hyperspectral Image Fusion, IEEE Transactions on Circuits and Systems for Video Technology,2026（SCI中科院一区 TOP期刊 IF=11.10）
 - ..Qiya Song*.. Spatial Invertible Network With Mamba Convolution for Hyperspectral Image Fusion，in IEEE Journal of Selected Topics in Signal Processing，2025（SCI中科院一区，信号处理国际顶级期刊 IF=13.7）
 - Qiya Song,et al.Diffcl: A diffusion-based contrastive learning framework with semantic alignment for multimodal recommendations, IEEE Transactions on Neural Networks and Learning Systems, 2025（SCI中科院一区 TOP期刊 IF=14.25）
--..Qiya Song*.. Coupling Degree with Self-supervised Learning for Multimodal Recommendation, Information Fusion,2026 （SCI中科院一区 TOP期刊 IF=18.60）
+- ..Qiya Song*.. Coupling Degree with Self-supervised Learning for Multimodal Recommendation, Information Fusion,2026 （SCI中科院一区 TOP期刊 IF=18.60）
 - Q. Song, B. Sun and S. Li, Multi-modal Sparse Transformer Network for Audio-Visual Speech Recognition, IEEE Transactions on Neural Networks and Learning Systems, 2023 （SCI中科院一区 TOP期刊 IF=14.25）
 - Qiya Song, Renwei Dian, Bin Sun, Jie Xie, and Shutao Li. Multi-scale Conformer Fusion Network for Multi-participant Behavior Analysis. Proceedings of the 31st ACM International Conference on Multimedia. 2023.（国际多媒体顶级会议 CCF_A）
 - ..Qiya Song*.. Multi-level feature subgraph aggregation graph neural network，in Information Fusion，2025（SCI中科院一区 TOP期刊 IF=18.60）
